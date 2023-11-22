@@ -14,7 +14,7 @@
 #### clone the project: 
 
 ```bash
-  git clone https://github.com/yasminenebti/MQTTapplication.git
+  git clone https://github.com/yasminenebti/IOT-Data-Collector-MQTT.git
 ```
 #### Access directory
 
