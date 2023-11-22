@@ -1,0 +1,58 @@
+version: "3"
+services:
+  mosquitto:
+    image: eclipse-mosquitto
+    volumes:
+      - "./mosquitto:/mosquitto"
+      - "./mosquitto/config:/mosquitto/config"
+      - "./mosquitto/data:/mosquitto/data"
+      - "./mosquitto/log:/mosquitto/log"
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+
+  backend:
+      build:
+        context: ./backend
+        dockerfile: Dockerfile
+      ports:
+        - "9090:9090"
+      depends_on:
+        - mosquitto
+        - postgres
+
+
+  frontend:
+      build:
+        context: ./frontend
+        dockerfile: Dockerfile
+      ports:
+        - "3000:3000"
+
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass123
+      POSTGRES_DB: device
+    volumes:
+      - psgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL:-pgadmin4@pgadmin.org}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD:-pass123}
+      PGADMIN_CONFIG_SERVER_MODE: 'False'
+    volumes:
+      - pgdata:/var/lib/pgadmin
+    ports:
+      - "5050:80"
+    restart: unless-stopped
+
+volumes:
+  psgdata:
+  pgdata:

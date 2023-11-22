@@ -1,0 +1,150 @@
+1699533016: mosquitto version 2.0.18 starting
+1699533016: Config loaded from /mosquitto/config/mosquitto.conf.
+1699533016: Opening ipv4 listen socket on port 1883.
+1699533016: Opening ipv6 listen socket on port 1883.
+1699533016: mosquitto version 2.0.18 running
+1699533046: New connection from 192.168.0.4:53136 on port 1883.
+1699533046: New client connected from 192.168.0.4:53136 as mqttclient (p2, c1, k60).
+1699533286: Client mqttclient closed its connection.
+1699533286: mosquitto version 2.0.18 terminating
+1699533430: mosquitto version 2.0.18 starting
+1699533430: Config loaded from /mosquitto/config/mosquitto.conf.
+1699533430: Opening ipv4 listen socket on port 1883.
+1699533430: Opening ipv6 listen socket on port 1883.
+1699533430: mosquitto version 2.0.18 running
+1699533436: New connection from 192.168.0.4:59766 on port 1883.
+1699533436: New client connected from 192.168.0.4:59766 as mqttclient (p2, c1, k60).
+1699533501: Client mqttclient closed its connection.
+1699533501: mosquitto version 2.0.18 terminating
+1699537287: mosquitto version 2.0.18 starting
+1699537287: Config loaded from /mosquitto/config/mosquitto.conf.
+1699537287: Opening ipv4 listen socket on port 1883.
+1699537287: Opening ipv6 listen socket on port 1883.
+1699537287: mosquitto version 2.0.18 running
+1699537294: New connection from 192.168.0.4:53196 on port 1883.
+1699537294: New client connected from 192.168.0.4:53196 as mqttclient (p2, c1, k60).
+1699537384: Client mqttclient closed its connection.
+1699537384: mosquitto version 2.0.18 terminating
+1699539882: mosquitto version 2.0.18 starting
+1699539882: Config loaded from /mosquitto/config/mosquitto.conf.
+1699539882: Opening ipv4 listen socket on port 1883.
+1699539882: Opening ipv6 listen socket on port 1883.
+1699539882: mosquitto version 2.0.18 running
+1699539894: New connection from 192.168.0.6:53764 on port 1883.
+1699539894: New client connected from 192.168.0.6:53764 as mqttclient (p2, c1, k60).
+1699540324: Client mqttclient closed its connection.
+1699540335: New connection from 192.168.0.6:53948 on port 1883.
+1699540335: New client connected from 192.168.0.6:53948 as mqttclient (p2, c1, k60).
+1699540760: Client mqttclient closed its connection.
+1699541245: New connection from 192.168.0.6:54374 on port 1883.
+1699541245: New client connected from 192.168.0.6:54374 as mqttclient (p2, c1, k60).
+1699541330: Client mqttclient closed its connection.
+1699541331: mosquitto version 2.0.18 terminating
+1699542641: mosquitto version 2.0.18 starting
+1699542641: Config loaded from /mosquitto/config/mosquitto.conf.
+1699542641: Opening ipv4 listen socket on port 1883.
+1699542641: Opening ipv6 listen socket on port 1883.
+1699542641: mosquitto version 2.0.18 running
+1699542655: New connection from 192.168.16.6:55996 on port 1883.
+1699542656: New client connected from 192.168.16.6:55996 as mqttclient (p2, c1, k60).
+1699542934: Client mqttclient closed its connection.
+1699542934: mosquitto version 2.0.18 terminating
+1699546866: mosquitto version 2.0.18 starting
+1699546866: Config loaded from /mosquitto/config/mosquitto.conf.
+1699546866: Opening ipv4 listen socket on port 1883.
+1699546866: Opening ipv6 listen socket on port 1883.
+1699546866: mosquitto version 2.0.18 running
+1699548776: New connection from 192.168.32.6:54602 on port 1883.
+1699548776: New client connected from 192.168.32.6:54602 as mqttclient (p2, c1, k60).
+1699548776: Client mqttclient closed its connection.
+1699548777: New connection from 192.168.32.6:54604 on port 1883.
+1699548777: New client connected from 192.168.32.6:54604 as mqttclient (p2, c1, k60).
+1699548843: Client mqttclient closed its connection.
+1699568476: mosquitto version 2.0.18 terminating
+1699568887: mosquitto version 2.0.18 starting
+1699568887: Config loaded from /mosquitto/config/mosquitto.conf.
+1699568887: Opening ipv4 listen socket on port 1883.
+1699568887: Opening ipv6 listen socket on port 1883.
+1699568887: mosquitto version 2.0.18 running
+1699569239: mosquitto version 2.0.18 terminating
+1699569490: mosquitto version 2.0.18 starting
+1699569490: Config loaded from /mosquitto/config/mosquitto.conf.
+1699569490: Opening ipv4 listen socket on port 1883.
+1699569490: Opening ipv6 listen socket on port 1883.
+1699569490: mosquitto version 2.0.18 running
+1699569697: mosquitto version 2.0.18 terminating
+1699602422: mosquitto version 2.0.18 starting
+1699602422: Config loaded from /mosquitto/config/mosquitto.conf.
+1699602422: Opening ipv4 listen socket on port 1883.
+1699602422: Opening ipv6 listen socket on port 1883.
+1699602422: mosquitto version 2.0.18 running
+1699602449: New connection from 192.168.0.6:46346 on port 1883.
+1699602449: New client connected from 192.168.0.6:46346 as mqttclient (p2, c1, k60).
+1699603686: Client mqttclient closed its connection.
+1699603686: mosquitto version 2.0.18 terminating
+1699605224: mosquitto version 2.0.18 starting
+1699605224: Config loaded from /mosquitto/config/mosquitto.conf.
+1699605224: Opening ipv4 listen socket on port 1883.
+1699605224: Opening ipv6 listen socket on port 1883.
+1699605224: mosquitto version 2.0.18 running
+1699605236: New connection from 192.168.16.6:60284 on port 1883.
+1699605236: New client connected from 192.168.16.6:60284 as mqttclient (p2, c1, k60).
+1699605493: Client mqttclient closed its connection.
+1699605494: mosquitto version 2.0.18 terminating
+1699605691: mosquitto version 2.0.18 starting
+1699605691: Config loaded from /mosquitto/config/mosquitto.conf.
+1699605691: Opening ipv4 listen socket on port 1883.
+1699605691: Opening ipv6 listen socket on port 1883.
+1699605691: mosquitto version 2.0.18 running
+1699605704: New connection from 192.168.32.6:52144 on port 1883.
+1699605704: New client connected from 192.168.32.6:52144 as mqttclient (p2, c1, k60).
+1699606261: Client mqttclient closed its connection.
+1699606272: New connection from 192.168.32.6:52268 on port 1883.
+1699606272: New client connected from 192.168.32.6:52268 as mqttclient (p2, c1, k60).
+1699607990: Client mqttclient closed its connection.
+1699608008: New connection from 192.168.32.6:52668 on port 1883.
+1699608008: New client connected from 192.168.32.6:52668 as mqttclient (p2, c1, k60).
+1699608108: Client mqttclient closed its connection.
+1699608460: New connection from 192.168.32.3:46444 on port 1883.
+1699608460: New client connected from 192.168.32.3:46444 as mqttclient (p2, c1, k60).
+1699608730: Client mqttclient closed its connection.
+1699608738: mosquitto version 2.0.18 terminating
+1699611134: mosquitto version 2.0.18 starting
+1699611134: Config loaded from /mosquitto/config/mosquitto.conf.
+1699611134: Opening ipv4 listen socket on port 1883.
+1699611134: Opening ipv6 listen socket on port 1883.
+1699611134: mosquitto version 2.0.18 running
+1699611145: New connection from 192.168.32.6:53202 on port 1883.
+1699611145: New client connected from 192.168.32.6:53202 as mqttclient (p2, c1, k60).
+1699611224: Client mqttclient closed its connection.
+1699611225: mosquitto version 2.0.18 terminating
+1699615513: mosquitto version 2.0.18 starting
+1699615513: Config loaded from /mosquitto/config/mosquitto.conf.
+1699615513: Opening ipv4 listen socket on port 1883.
+1699615513: Opening ipv6 listen socket on port 1883.
+1699615513: mosquitto version 2.0.18 running
+1699615523: New connection from 192.168.16.6:51284 on port 1883.
+1699615523: New client connected from 192.168.16.6:51284 as mqttclient (p2, c1, k60).
+1699615683: Client mqttclient closed its connection.
+1699615683: mosquitto version 2.0.18 terminating
+1700678188: mosquitto version 2.0.18 starting
+1700678188: Config loaded from /mosquitto/config/mosquitto.conf.
+1700678188: Opening ipv4 listen socket on port 1883.
+1700678188: Opening ipv6 listen socket on port 1883.
+1700678188: mosquitto version 2.0.18 running
+1700678209: New connection from 172.30.0.6:48960 on port 1883.
+1700678209: New client connected from 172.30.0.6:48960 as mqttclient (p2, c1, k60).
+1700678271: Client mqttclient closed its connection.
+1700679278: New connection from 172.30.0.6:49066 on port 1883.
+1700679278: New client connected from 172.30.0.6:49066 as mqttclient (p2, c1, k60).
+1700679319: Client mqttclient closed its connection.
+1700679319: mosquitto version 2.0.18 terminating
+1700679595: mosquitto version 2.0.18 starting
+1700679595: Config loaded from /mosquitto/config/mosquitto.conf.
+1700679595: Opening ipv4 listen socket on port 1883.
+1700679595: Opening ipv6 listen socket on port 1883.
+1700679595: mosquitto version 2.0.18 running
+1700679615: New connection from 172.30.0.6:38102 on port 1883.
+1700679615: New client connected from 172.30.0.6:38102 as mqttclient (p2, c1, k60).
+1700679923: Client mqttclient closed its connection.
+1700679923: mosquitto version 2.0.18 terminating

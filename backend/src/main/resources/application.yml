@@ -1,0 +1,18 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: mqtt
+  datasource:
+    url: jdbc:postgresql://postgres:5432/device
+    username: user
+    password: pass123
+  jpa:
+    properties:
+      hibernate:
+        format_sql: "false"
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: false
