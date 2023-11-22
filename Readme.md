@@ -14,12 +14,12 @@
 #### clone the project: 
 
 ```bash
-  git clone 
+  git clone https://github.com/yasminenebti/MQTTapplication.git
 ```
 #### Access directory
 
 ```bash
-  cd 
+  cd IOT-Data-Collector-MQTT
 ```
 
 #### Run Docker

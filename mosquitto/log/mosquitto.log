@@ -148,3 +148,12 @@
 1700679615: New client connected from 172.30.0.6:38102 as mqttclient (p2, c1, k60).
 1700679923: Client mqttclient closed its connection.
 1700679923: mosquitto version 2.0.18 terminating
+1700680733: mosquitto version 2.0.18 starting
+1700680733: Config loaded from /mosquitto/config/mosquitto.conf.
+1700680733: Opening ipv4 listen socket on port 1883.
+1700680733: Opening ipv6 listen socket on port 1883.
+1700680733: mosquitto version 2.0.18 running
+1700680741: New connection from 172.30.0.6:49408 on port 1883.
+1700680741: New client connected from 172.30.0.6:49408 as mqttclient (p2, c1, k60).
+1700680849: Client mqttclient closed its connection.
+1700680849: mosquitto version 2.0.18 terminating
